@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#resultado {
+    width: 500px;
+    height: 100px;
+}
+
+.buttons {
+    width: 500px;
+    height: 500px;
+
+}
+
+.geral {
+    width: 700px;
+}
